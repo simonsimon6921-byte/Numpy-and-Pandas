@@ -1,2 +1,2 @@
 # Numpy-and-Pandas
-You are given a list of daily average temperatures (in degrees Celsius) recorded over two weeks. Your task is to use NumPy to analyze this data.
+A Pandas Series is a one-dimensional labeled array that can store data such as integers, strings, or floating-point values.
